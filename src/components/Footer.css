@@ -1,0 +1,11 @@
+.footer{
+    margin-top: 5vh;
+    height: 10vh;
+}
+.footer p{
+  
+    text-align: center;
+  
+    font-size: x-large;
+    font-weight: bold; 
+}

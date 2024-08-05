@@ -1,0 +1,15 @@
+
+
+@media screen and (max-width: 460px){
+    h1{
+font-size: 8vw;
+    }
+}
+@media screen and (max-width: 768px){
+    h1{
+        font-size: 12vw;
+       
+    }
+}
+
+
